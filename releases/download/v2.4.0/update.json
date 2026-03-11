@@ -1,10 +1,5 @@
 {
- "version":"2.4.0",
- "channel":"stable",
- "rollout":30,
- "package":"ERP.7z",
- "sha256":"A021B5D...",
- "signature":"BASE64_RSA",
- "delta":"ERP.patch",
- "url":"https://github.com/alphainfosistemas/Usialpha/tree/main/releases/download/v2.4.0/PrjUsinagem.7z"
+ "version":"2.0.0",
+ "url":"https://github.com/alphainfosistemas/Usialpha/tree/ffe7f3070bf73a15f2dc004e368ed0ee280ea438/releases/download/v2.4.0/PrjUsinagem.7z",
+ "sha256":"ABC123..."
 }
