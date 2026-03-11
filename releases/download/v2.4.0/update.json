@@ -2,8 +2,9 @@
  "version":"2.4.0",
  "channel":"stable",
  "rollout":30,
- "url_full":"https://github.com/seuapp/releases/download/v2.4.0/App.exe",
- "url_patch":"https://github.com/seuapp/releases/download/v2.4.0/App.patch",
- "sha256":"A0D2132F...",
- "signature":"MEU_HASH_RSA"
+ "package":"ERP.7z",
+ "sha256":"A021B5D...",
+ "signature":"BASE64_RSA",
+ "delta":"ERP.patch",
+ "url":"https://github.com/alphainfosistemas/Usialpha/tree/main/releases/download/v2.4.0/PrjUsinagem.7z"
 }
